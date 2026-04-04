@@ -1,0 +1,79 @@
+=MISSING VALUES ANALYSIS REPORT
+=
+File: Combined_Data_Minimal_Template.xlsx
+Generated: 08-Mar-2026 20:18:54
+
+TABLE INFORMATION
+-----------------
+  Total Rows: 7909
+  Total Columns: 57
+
+OVERALL SUMMARY
+---------------
+  Total missing cells: 31541 (7.00%)
+  Columns with missing: 38 (66.67%)
+  Rows with missing: 1412 (17.85%)
+
+COLUMN DETAILS
+--------------
+   1. Aneurysm                  (cell        ):     0 missing (  0.00%) - 
+   2. PatientGroup              (cell        ):     0 missing (  0.00%) - 
+   3. StudyID                   (cell        ):     0 missing (  0.00%) - 
+   4. AcquisitionDate           (cell        ):     0 missing (  0.00%) - 
+   5. SliceNumber               (double      ):     0 missing (  0.00%) - 
+   6. RegionNumber              (double      ):     0 missing (  0.00%) - 
+   7. RegionRow                 (double      ):     0 missing (  0.00%) - 
+   8. RegionCol                 (double      ):     0 missing (  0.00%) - 
+   9. Filename                  (cell        ):     0 missing (  0.00%) - 
+  10. num_vessels               (double      ):   477 missing (  6.03%) - NaN
+  11. vessel_density            (double      ):   477 missing (  6.03%) - NaN
+  12. mean_width                (double      ):   925 missing ( 11.70%) - NaN
+  13. mean_aspect_ratio         (double      ):   925 missing ( 11.70%) - NaN
+  14. mean_circularity          (double      ):   941 missing ( 11.90%) - NaN
+  15. branch_point_density      (double      ):   925 missing ( 11.70%) - NaN
+  16. RegionBrainPercentage     (double      ):   477 missing (  6.03%) - NaN
+  17. RegionBrainPixels         (double      ):     0 missing (  0.00%) - 
+  18. RegionEndCol              (double      ):     0 missing (  0.00%) - 
+  19. RegionEndRow              (double      ):     0 missing (  0.00%) - 
+  20. RegionHeight              (double      ):     0 missing (  0.00%) - 
+  21. RegionStartCol            (double      ):     0 missing (  0.00%) - 
+  22. RegionStartRow            (double      ):     0 missing (  0.00%) - 
+  23. RegionType                (cell        ):     0 missing (  0.00%) - 
+  24. RegionWidth               (double      ):     0 missing (  0.00%) - 
+  25. area_inequality           (double      ):   408 missing (  5.16%) - NaN
+  26. brain_area_pixels         (double      ):     0 missing (  0.00%) - 
+  27. distance_to_center        (double      ):   925 missing ( 11.70%) - NaN
+  28. end_point_density         (double      ):   925 missing ( 11.70%) - NaN
+  29. glc_contrast              (double      ):   925 missing ( 11.70%) - NaN
+  30. glc_correlation           (double      ):   925 missing ( 11.70%) - NaN
+  31. glc_energy                (double      ):   925 missing ( 11.70%) - NaN
+  32. glc_homogeneity           (double      ):   925 missing ( 11.70%) - NaN
+  33. intensity_range           (double      ):   925 missing ( 11.70%) - NaN
+  34. intensity_std             (double      ):   925 missing ( 11.70%) - NaN
+  35. large_vessel_count        (double      ):   477 missing (  6.03%) - NaN
+  36. max_area                  (double      ):   925 missing ( 11.70%) - NaN
+  37. mean_area                 (double      ):   925 missing ( 11.70%) - NaN
+  38. mean_eccentricity         (double      ):   925 missing ( 11.70%) - NaN
+  39. mean_intensity            (double      ):   925 missing ( 11.70%) - NaN
+  40. mean_vessel_length        (double      ):  1400 missing ( 17.70%) - NaN
+  41. median_area               (double      ):   925 missing ( 11.70%) - NaN
+  42. median_intensity          (double      ):   925 missing ( 11.70%) - NaN
+  43. medium_vessel_count       (double      ):   477 missing (  6.03%) - NaN
+  44. min_area                  (double      ):   925 missing ( 11.70%) - NaN
+  45. small_vessel_count        (double      ):   477 missing (  6.03%) - NaN
+  46. small_vessel_percentage   (double      ):   477 missing (  6.03%) - NaN
+  47. std_area                  (double      ):   925 missing ( 11.70%) - NaN
+  48. std_aspect_ratio          (double      ):   925 missing ( 11.70%) - NaN
+  49. std_circularity           (double      ):   941 missing ( 11.90%) - NaN
+  50. std_eccentricity          (double      ):   925 missing ( 11.70%) - NaN
+  51. std_width                 (double      ):   925 missing ( 11.70%) - NaN
+  52. tiny_vessel_count         (double      ):   477 missing (  6.03%) - NaN
+  53. total_vessel_length       (double      ):  1400 missing ( 17.70%) - NaN
+  54. vessel_area_pixels        (double      ):   477 missing (  6.03%) - NaN
+  55. vessel_complexity         (double      ):   883 missing ( 11.16%) - NaN
+  56. width_variability         (double      ):   925 missing ( 11.70%) - NaN
+  57. SourceFile                (cell        ):     0 missing (  0.00%) - 
+
+COLUMNS WITH HIGH MISSING (>20%)
+--------------------------------
+  No columns with >20% missing values
